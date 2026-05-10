@@ -1,7 +1,7 @@
 [Workspace]
 CurrentProject=WebApp.src
 Location=C:\DataFlex Projects\FutbolWebApp\IdeSrc\Ezequiel_Studio.dsk
-CreateNew=-1
+CreateNew=3
 [TabWindows]
 GroupCount=1
 HorizontalGroups=1
@@ -18,7 +18,7 @@ Right=1428
 TabIndex=0
 TabGroup=0
 [Window1]
-Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\WebApp.src
+Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\SelectEntrenador.wo
 ViewType=1
 Top=21
 Left=0
@@ -26,5 +26,16 @@ Bottom=718
 Right=1428
 CursorLine=0
 CursorColumn=0
+TabIndex=2
+TabGroup=0
+[Window2]
+Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\WebApp.src
+ViewType=1
+Top=21
+Left=0
+Bottom=718
+Right=1428
+CursorLine=23
+CursorColumn=24
 TabIndex=1
 TabGroup=0
