@@ -93,7 +93,16 @@ Object oZoomJugador is a cWebView
             Procedure OnPrompt
                 Send NavigatePath
             End_Procedure
-        End_Object 
+        End_Object
+        
+        Object oButtonDespedir is a cWebButton
+            Set piColumnSpan to 2
+            Set psCaption to "Despedir"
+        
+            Procedure OnClick
+                Send Clear of oequipo_DD
+            End_Procedure
+        End_Object
 
         Object oligaPais is a cWebForm
             Entry_Item liga.Pais
